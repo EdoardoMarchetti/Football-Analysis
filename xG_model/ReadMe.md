@@ -1,1 +1,3 @@
+# xG Modell
+
 This is a first and simple implementantion of an xG model with a Logistic regression. In the notebook you will find a data exploration section where I try to understand wha type of data are available and how they can be used to generate new features. Then it is computed the correlation between the features and the target variable (i.e. Goal). In the third section I build the distance and angle features. Finally build the the Logistic regression model and, step-by-step, I evaluated it in different configuration. Finally there is a brief description on how the model could be improved
