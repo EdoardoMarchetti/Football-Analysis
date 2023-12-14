@@ -1,0 +1,421 @@
+Player ID,Player,Metric,grid_values
+zzzzzzz,grid,Matches Played,10
+zzzzzzz,grid,Matches Played,20
+zzzzzzz,grid,Matches Played,30
+zzzzzzz,grid,Matches Played,40
+zzzzzzz,grid,Matches Played,50
+zzzzzzz,grid,Matches Played,60
+zzzzzzz,grid,Matches Played,70
+zzzzzzz,grid,Matches Played,80
+zzzzzzz,grid,Matches Played,90
+zzzzzzz,grid,Matches Played,101
+zzzzzzz,grid,90s,10
+zzzzzzz,grid,90s,20
+zzzzzzz,grid,90s,30
+zzzzzzz,grid,90s,40
+zzzzzzz,grid,90s,50
+zzzzzzz,grid,90s,60
+zzzzzzz,grid,90s,70
+zzzzzzz,grid,90s,80
+zzzzzzz,grid,90s,90
+zzzzzzz,grid,90s,101
+zzzzzzz,grid,Minutes Played,10
+zzzzzzz,grid,Minutes Played,20
+zzzzzzz,grid,Minutes Played,30
+zzzzzzz,grid,Minutes Played,40
+zzzzzzz,grid,Minutes Played,50
+zzzzzzz,grid,Minutes Played,60
+zzzzzzz,grid,Minutes Played,70
+zzzzzzz,grid,Minutes Played,80
+zzzzzzz,grid,Minutes Played,90
+zzzzzzz,grid,Minutes Played,101
+zzzzzzz,grid,Starts,10
+zzzzzzz,grid,Starts,20
+zzzzzzz,grid,Starts,30
+zzzzzzz,grid,Starts,40
+zzzzzzz,grid,Starts,50
+zzzzzzz,grid,Starts,60
+zzzzzzz,grid,Starts,70
+zzzzzzz,grid,Starts,80
+zzzzzzz,grid,Starts,90
+zzzzzzz,grid,Starts,101
+zzzzzzz,grid,Goals,10
+zzzzzzz,grid,Goals,20
+zzzzzzz,grid,Goals,30
+zzzzzzz,grid,Goals,40
+zzzzzzz,grid,Goals,50
+zzzzzzz,grid,Goals,60
+zzzzzzz,grid,Goals,70
+zzzzzzz,grid,Goals,80
+zzzzzzz,grid,Goals,90
+zzzzzzz,grid,Goals,101
+zzzzzzz,grid,npGoals,10
+zzzzzzz,grid,npGoals,20
+zzzzzzz,grid,npGoals,30
+zzzzzzz,grid,npGoals,40
+zzzzzzz,grid,npGoals,50
+zzzzzzz,grid,npGoals,60
+zzzzzzz,grid,npGoals,70
+zzzzzzz,grid,npGoals,80
+zzzzzzz,grid,npGoals,90
+zzzzzzz,grid,npGoals,101
+zzzzzzz,grid,npxG,10
+zzzzzzz,grid,npxG,20
+zzzzzzz,grid,npxG,30
+zzzzzzz,grid,npxG,40
+zzzzzzz,grid,npxG,50
+zzzzzzz,grid,npxG,60
+zzzzzzz,grid,npxG,70
+zzzzzzz,grid,npxG,80
+zzzzzzz,grid,npxG,90
+zzzzzzz,grid,npxG,101
+zzzzzzz,grid,xG,10
+zzzzzzz,grid,xG,20
+zzzzzzz,grid,xG,30
+zzzzzzz,grid,xG,40
+zzzzzzz,grid,xG,50
+zzzzzzz,grid,xG,60
+zzzzzzz,grid,xG,70
+zzzzzzz,grid,xG,80
+zzzzzzz,grid,xG,90
+zzzzzzz,grid,xG,101
+zzzzzzz,grid,PrgCarries,10
+zzzzzzz,grid,PrgCarries,20
+zzzzzzz,grid,PrgCarries,30
+zzzzzzz,grid,PrgCarries,40
+zzzzzzz,grid,PrgCarries,50
+zzzzzzz,grid,PrgCarries,60
+zzzzzzz,grid,PrgCarries,70
+zzzzzzz,grid,PrgCarries,80
+zzzzzzz,grid,PrgCarries,90
+zzzzzzz,grid,PrgCarries,101
+zzzzzzz,grid,PrgPasses,10
+zzzzzzz,grid,PrgPasses,20
+zzzzzzz,grid,PrgPasses,30
+zzzzzzz,grid,PrgPasses,40
+zzzzzzz,grid,PrgPasses,50
+zzzzzzz,grid,PrgPasses,60
+zzzzzzz,grid,PrgPasses,70
+zzzzzzz,grid,PrgPasses,80
+zzzzzzz,grid,PrgPasses,90
+zzzzzzz,grid,PrgPasses,101
+zzzzzzz,grid,CS,10
+zzzzzzz,grid,CS,20
+zzzzzzz,grid,CS,30
+zzzzzzz,grid,CS,40
+zzzzzzz,grid,CS,50
+zzzzzzz,grid,CS,60
+zzzzzzz,grid,CS,70
+zzzzzzz,grid,CS,80
+zzzzzzz,grid,CS,90
+zzzzzzz,grid,CS,101
+zzzzzzz,grid,SoTA,10
+zzzzzzz,grid,SoTA,20
+zzzzzzz,grid,SoTA,30
+zzzzzzz,grid,SoTA,40
+zzzzzzz,grid,SoTA,50
+zzzzzzz,grid,SoTA,60
+zzzzzzz,grid,SoTA,70
+zzzzzzz,grid,SoTA,80
+zzzzzzz,grid,SoTA,90
+zzzzzzz,grid,SoTA,101
+zzzzzzz,grid,Saves,10
+zzzzzzz,grid,Saves,20
+zzzzzzz,grid,Saves,30
+zzzzzzz,grid,Saves,40
+zzzzzzz,grid,Saves,50
+zzzzzzz,grid,Saves,60
+zzzzzzz,grid,Saves,70
+zzzzzzz,grid,Saves,80
+zzzzzzz,grid,Saves,90
+zzzzzzz,grid,Saves,101
+zzzzzzz,grid,GA,10
+zzzzzzz,grid,GA,20
+zzzzzzz,grid,GA,30
+zzzzzzz,grid,GA,40
+zzzzzzz,grid,GA,50
+zzzzzzz,grid,GA,60
+zzzzzzz,grid,GA,70
+zzzzzzz,grid,GA,80
+zzzzzzz,grid,GA,90
+zzzzzzz,grid,GA,101
+zzzzzzz,grid,PSxGA - GA,10
+zzzzzzz,grid,PSxGA - GA,20
+zzzzzzz,grid,PSxGA - GA,30
+zzzzzzz,grid,PSxGA - GA,40
+zzzzzzz,grid,PSxGA - GA,50
+zzzzzzz,grid,PSxGA - GA,60
+zzzzzzz,grid,PSxGA - GA,70
+zzzzzzz,grid,PSxGA - GA,80
+zzzzzzz,grid,PSxGA - GA,90
+zzzzzzz,grid,PSxGA - GA,101
+zzzzzzz,grid,Crosses Stp,10
+zzzzzzz,grid,Crosses Stp,20
+zzzzzzz,grid,Crosses Stp,30
+zzzzzzz,grid,Crosses Stp,40
+zzzzzzz,grid,Crosses Stp,50
+zzzzzzz,grid,Crosses Stp,60
+zzzzzzz,grid,Crosses Stp,70
+zzzzzzz,grid,Crosses Stp,80
+zzzzzzz,grid,Crosses Stp,90
+zzzzzzz,grid,Crosses Stp,101
+zzzzzzz,grid,Crosses Opp,10
+zzzzzzz,grid,Crosses Opp,20
+zzzzzzz,grid,Crosses Opp,30
+zzzzzzz,grid,Crosses Opp,40
+zzzzzzz,grid,Crosses Opp,50
+zzzzzzz,grid,Crosses Opp,60
+zzzzzzz,grid,Crosses Opp,70
+zzzzzzz,grid,Crosses Opp,80
+zzzzzzz,grid,Crosses Opp,90
+zzzzzzz,grid,Crosses Opp,101
+zzzzzzz,grid,SoT,10
+zzzzzzz,grid,SoT,20
+zzzzzzz,grid,SoT,30
+zzzzzzz,grid,SoT,40
+zzzzzzz,grid,SoT,50
+zzzzzzz,grid,SoT,60
+zzzzzzz,grid,SoT,70
+zzzzzzz,grid,SoT,80
+zzzzzzz,grid,SoT,90
+zzzzzzz,grid,SoT,101
+zzzzzzz,grid,Passes Cmp,10
+zzzzzzz,grid,Passes Cmp,20
+zzzzzzz,grid,Passes Cmp,30
+zzzzzzz,grid,Passes Cmp,40
+zzzzzzz,grid,Passes Cmp,50
+zzzzzzz,grid,Passes Cmp,60
+zzzzzzz,grid,Passes Cmp,70
+zzzzzzz,grid,Passes Cmp,80
+zzzzzzz,grid,Passes Cmp,90
+zzzzzzz,grid,Passes Cmp,101
+zzzzzzz,grid,Passes Att,10
+zzzzzzz,grid,Passes Att,20
+zzzzzzz,grid,Passes Att,30
+zzzzzzz,grid,Passes Att,40
+zzzzzzz,grid,Passes Att,50
+zzzzzzz,grid,Passes Att,60
+zzzzzzz,grid,Passes Att,70
+zzzzzzz,grid,Passes Att,80
+zzzzzzz,grid,Passes Att,90
+zzzzzzz,grid,Passes Att,101
+zzzzzzz,grid,Ast,10
+zzzzzzz,grid,Ast,20
+zzzzzzz,grid,Ast,30
+zzzzzzz,grid,Ast,40
+zzzzzzz,grid,Ast,50
+zzzzzzz,grid,Ast,60
+zzzzzzz,grid,Ast,70
+zzzzzzz,grid,Ast,80
+zzzzzzz,grid,Ast,90
+zzzzzzz,grid,Ast,101
+zzzzzzz,grid,xAG,10
+zzzzzzz,grid,xAG,20
+zzzzzzz,grid,xAG,30
+zzzzzzz,grid,xAG,40
+zzzzzzz,grid,xAG,50
+zzzzzzz,grid,xAG,60
+zzzzzzz,grid,xAG,70
+zzzzzzz,grid,xAG,80
+zzzzzzz,grid,xAG,90
+zzzzzzz,grid,xAG,101
+zzzzzzz,grid,A-xAG,10
+zzzzzzz,grid,A-xAG,20
+zzzzzzz,grid,A-xAG,30
+zzzzzzz,grid,A-xAG,40
+zzzzzzz,grid,A-xAG,50
+zzzzzzz,grid,A-xAG,60
+zzzzzzz,grid,A-xAG,70
+zzzzzzz,grid,A-xAG,80
+zzzzzzz,grid,A-xAG,90
+zzzzzzz,grid,A-xAG,101
+zzzzzzz,grid,Passes Final 3rd,10
+zzzzzzz,grid,Passes Final 3rd,20
+zzzzzzz,grid,Passes Final 3rd,30
+zzzzzzz,grid,Passes Final 3rd,40
+zzzzzzz,grid,Passes Final 3rd,50
+zzzzzzz,grid,Passes Final 3rd,60
+zzzzzzz,grid,Passes Final 3rd,70
+zzzzzzz,grid,Passes Final 3rd,80
+zzzzzzz,grid,Passes Final 3rd,90
+zzzzzzz,grid,Passes Final 3rd,101
+zzzzzzz,grid,Challenges Tkl,10
+zzzzzzz,grid,Challenges Tkl,20
+zzzzzzz,grid,Challenges Tkl,30
+zzzzzzz,grid,Challenges Tkl,40
+zzzzzzz,grid,Challenges Tkl,50
+zzzzzzz,grid,Challenges Tkl,60
+zzzzzzz,grid,Challenges Tkl,70
+zzzzzzz,grid,Challenges Tkl,80
+zzzzzzz,grid,Challenges Tkl,90
+zzzzzzz,grid,Challenges Tkl,101
+zzzzzzz,grid,Challenges Against Att,10
+zzzzzzz,grid,Challenges Against Att,20
+zzzzzzz,grid,Challenges Against Att,30
+zzzzzzz,grid,Challenges Against Att,40
+zzzzzzz,grid,Challenges Against Att,50
+zzzzzzz,grid,Challenges Against Att,60
+zzzzzzz,grid,Challenges Against Att,70
+zzzzzzz,grid,Challenges Against Att,80
+zzzzzzz,grid,Challenges Against Att,90
+zzzzzzz,grid,Challenges Against Att,101
+zzzzzzz,grid,Tkl+Int,10
+zzzzzzz,grid,Tkl+Int,20
+zzzzzzz,grid,Tkl+Int,30
+zzzzzzz,grid,Tkl+Int,40
+zzzzzzz,grid,Tkl+Int,50
+zzzzzzz,grid,Tkl+Int,60
+zzzzzzz,grid,Tkl+Int,70
+zzzzzzz,grid,Tkl+Int,80
+zzzzzzz,grid,Tkl+Int,90
+zzzzzzz,grid,Tkl+Int,101
+zzzzzzz,grid,Tackles Def 3rd,10
+zzzzzzz,grid,Tackles Def 3rd,20
+zzzzzzz,grid,Tackles Def 3rd,30
+zzzzzzz,grid,Tackles Def 3rd,40
+zzzzzzz,grid,Tackles Def 3rd,50
+zzzzzzz,grid,Tackles Def 3rd,60
+zzzzzzz,grid,Tackles Def 3rd,70
+zzzzzzz,grid,Tackles Def 3rd,80
+zzzzzzz,grid,Tackles Def 3rd,90
+zzzzzzz,grid,Tackles Def 3rd,101
+zzzzzzz,grid,Blocks,10
+zzzzzzz,grid,Blocks,20
+zzzzzzz,grid,Blocks,30
+zzzzzzz,grid,Blocks,40
+zzzzzzz,grid,Blocks,50
+zzzzzzz,grid,Blocks,60
+zzzzzzz,grid,Blocks,70
+zzzzzzz,grid,Blocks,80
+zzzzzzz,grid,Blocks,90
+zzzzzzz,grid,Blocks,101
+zzzzzzz,grid,Clr,10
+zzzzzzz,grid,Clr,20
+zzzzzzz,grid,Clr,30
+zzzzzzz,grid,Clr,40
+zzzzzzz,grid,Clr,50
+zzzzzzz,grid,Clr,60
+zzzzzzz,grid,Clr,70
+zzzzzzz,grid,Clr,80
+zzzzzzz,grid,Clr,90
+zzzzzzz,grid,Clr,101
+zzzzzzz,grid,Goals_p90,10
+zzzzzzz,grid,Goals_p90,20
+zzzzzzz,grid,Goals_p90,30
+zzzzzzz,grid,Goals_p90,40
+zzzzzzz,grid,Goals_p90,50
+zzzzzzz,grid,Goals_p90,60
+zzzzzzz,grid,Goals_p90,70
+zzzzzzz,grid,Goals_p90,80
+zzzzzzz,grid,Goals_p90,90
+zzzzzzz,grid,Goals_p90,101
+zzzzzzz,grid,npGoals_p90,10
+zzzzzzz,grid,npGoals_p90,20
+zzzzzzz,grid,npGoals_p90,30
+zzzzzzz,grid,npGoals_p90,40
+zzzzzzz,grid,npGoals_p90,50
+zzzzzzz,grid,npGoals_p90,60
+zzzzzzz,grid,npGoals_p90,70
+zzzzzzz,grid,npGoals_p90,80
+zzzzzzz,grid,npGoals_p90,90
+zzzzzzz,grid,npGoals_p90,101
+zzzzzzz,grid,npxG_p90,10
+zzzzzzz,grid,npxG_p90,20
+zzzzzzz,grid,npxG_p90,30
+zzzzzzz,grid,npxG_p90,40
+zzzzzzz,grid,npxG_p90,50
+zzzzzzz,grid,npxG_p90,60
+zzzzzzz,grid,npxG_p90,70
+zzzzzzz,grid,npxG_p90,80
+zzzzzzz,grid,npxG_p90,90
+zzzzzzz,grid,npxG_p90,101
+zzzzzzz,grid,xG_p90,10
+zzzzzzz,grid,xG_p90,20
+zzzzzzz,grid,xG_p90,30
+zzzzzzz,grid,xG_p90,40
+zzzzzzz,grid,xG_p90,50
+zzzzzzz,grid,xG_p90,60
+zzzzzzz,grid,xG_p90,70
+zzzzzzz,grid,xG_p90,80
+zzzzzzz,grid,xG_p90,90
+zzzzzzz,grid,xG_p90,101
+zzzzzzz,grid,SoT_p90,10
+zzzzzzz,grid,SoT_p90,20
+zzzzzzz,grid,SoT_p90,30
+zzzzzzz,grid,SoT_p90,40
+zzzzzzz,grid,SoT_p90,50
+zzzzzzz,grid,SoT_p90,60
+zzzzzzz,grid,SoT_p90,70
+zzzzzzz,grid,SoT_p90,80
+zzzzzzz,grid,SoT_p90,90
+zzzzzzz,grid,SoT_p90,101
+zzzzzzz,grid,PrgCarries_p90,10
+zzzzzzz,grid,PrgCarries_p90,20
+zzzzzzz,grid,PrgCarries_p90,30
+zzzzzzz,grid,PrgCarries_p90,40
+zzzzzzz,grid,PrgCarries_p90,50
+zzzzzzz,grid,PrgCarries_p90,60
+zzzzzzz,grid,PrgCarries_p90,70
+zzzzzzz,grid,PrgCarries_p90,80
+zzzzzzz,grid,PrgCarries_p90,90
+zzzzzzz,grid,PrgCarries_p90,101
+zzzzzzz,grid,PrgPasses_p90,10
+zzzzzzz,grid,PrgPasses_p90,20
+zzzzzzz,grid,PrgPasses_p90,30
+zzzzzzz,grid,PrgPasses_p90,40
+zzzzzzz,grid,PrgPasses_p90,50
+zzzzzzz,grid,PrgPasses_p90,60
+zzzzzzz,grid,PrgPasses_p90,70
+zzzzzzz,grid,PrgPasses_p90,80
+zzzzzzz,grid,PrgPasses_p90,90
+zzzzzzz,grid,PrgPasses_p90,101
+zzzzzzz,grid,xAG_p90,10
+zzzzzzz,grid,xAG_p90,20
+zzzzzzz,grid,xAG_p90,30
+zzzzzzz,grid,xAG_p90,40
+zzzzzzz,grid,xAG_p90,50
+zzzzzzz,grid,xAG_p90,60
+zzzzzzz,grid,xAG_p90,70
+zzzzzzz,grid,xAG_p90,80
+zzzzzzz,grid,xAG_p90,90
+zzzzzzz,grid,xAG_p90,101
+zzzzzzz,grid,%PassesCmp,10
+zzzzzzz,grid,%PassesCmp,20
+zzzzzzz,grid,%PassesCmp,30
+zzzzzzz,grid,%PassesCmp,40
+zzzzzzz,grid,%PassesCmp,50
+zzzzzzz,grid,%PassesCmp,60
+zzzzzzz,grid,%PassesCmp,70
+zzzzzzz,grid,%PassesCmp,80
+zzzzzzz,grid,%PassesCmp,90
+zzzzzzz,grid,%PassesCmp,101
+zzzzzzz,grid,%TklCmp,10
+zzzzzzz,grid,%TklCmp,20
+zzzzzzz,grid,%TklCmp,30
+zzzzzzz,grid,%TklCmp,40
+zzzzzzz,grid,%TklCmp,50
+zzzzzzz,grid,%TklCmp,60
+zzzzzzz,grid,%TklCmp,70
+zzzzzzz,grid,%TklCmp,80
+zzzzzzz,grid,%TklCmp,90
+zzzzzzz,grid,%TklCmp,101
+zzzzzzz,grid,%Saves,10
+zzzzzzz,grid,%Saves,20
+zzzzzzz,grid,%Saves,30
+zzzzzzz,grid,%Saves,40
+zzzzzzz,grid,%Saves,50
+zzzzzzz,grid,%Saves,60
+zzzzzzz,grid,%Saves,70
+zzzzzzz,grid,%Saves,80
+zzzzzzz,grid,%Saves,90
+zzzzzzz,grid,%Saves,101
+zzzzzzz,grid,%CossesStopped,10
+zzzzzzz,grid,%CossesStopped,20
+zzzzzzz,grid,%CossesStopped,30
+zzzzzzz,grid,%CossesStopped,40
+zzzzzzz,grid,%CossesStopped,50
+zzzzzzz,grid,%CossesStopped,60
+zzzzzzz,grid,%CossesStopped,70
+zzzzzzz,grid,%CossesStopped,80
+zzzzzzz,grid,%CossesStopped,90
+zzzzzzz,grid,%CossesStopped,101

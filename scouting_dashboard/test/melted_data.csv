@@ -1,0 +1,673 @@
+Player ID,Player,variable,value
+58e933d2,Christian Kouamé,Matches Played,28.0
+03f946ed,Andrea Petagna,Matches Played,31.0
+8eb55dbb,Sheraldo Becker,Matches Played,34.0
+ca618d23,Lucas Höler,Matches Played,26.0
+3626daea,Leonardo Spinazzola,Matches Played,26.0
+f1f1f238,Koray Günter,Matches Played,23.0
+313254a3,Kiliann Sildillia,Matches Played,27.0
+0a89e877,Benjamin Henrichs,Matches Played,30.0
+ee64a822,Lewis Ferguson,Matches Played,32.0
+5128bde4,Darko Lazović,Matches Played,30.0
+a167537f,Julian Brandt,Matches Played,32.0
+cc86b9a3,Leon Goretzka,Matches Played,27.0
+fcb38f57,Mike Maignan,Matches Played,22.0
+a111cf41,Juan Musso,Matches Played,24.0
+a92ab7be,Mark Flekken,Matches Played,34.0
+9f941969,Manuel Riemann,Matches Played,34.0
+58e933d2,Christian Kouamé,90s,20.7
+03f946ed,Andrea Petagna,90s,18.5
+8eb55dbb,Sheraldo Becker,90s,28.4
+ca618d23,Lucas Höler,90s,16.7
+3626daea,Leonardo Spinazzola,90s,18.4
+f1f1f238,Koray Günter,90s,19.7
+313254a3,Kiliann Sildillia,90s,22.0
+0a89e877,Benjamin Henrichs,90s,24.3
+ee64a822,Lewis Ferguson,90s,25.7
+5128bde4,Darko Lazović,90s,24.9
+a167537f,Julian Brandt,90s,26.6
+cc86b9a3,Leon Goretzka,90s,19.2
+fcb38f57,Mike Maignan,90s,22.0
+a111cf41,Juan Musso,90s,23.1
+a92ab7be,Mark Flekken,90s,34.0
+9f941969,Manuel Riemann,90s,34.0
+58e933d2,Christian Kouamé,Minutes Played,1866.0
+03f946ed,Andrea Petagna,Minutes Played,1663.0
+8eb55dbb,Sheraldo Becker,Minutes Played,2554.0
+ca618d23,Lucas Höler,Minutes Played,1503.0
+3626daea,Leonardo Spinazzola,Minutes Played,1654.0
+f1f1f238,Koray Günter,Minutes Played,1779.0
+313254a3,Kiliann Sildillia,Minutes Played,1977.0
+0a89e877,Benjamin Henrichs,Minutes Played,2188.0
+ee64a822,Lewis Ferguson,Minutes Played,2314.0
+5128bde4,Darko Lazović,Minutes Played,2242.0
+a167537f,Julian Brandt,Minutes Played,2397.0
+cc86b9a3,Leon Goretzka,Minutes Played,1728.0
+fcb38f57,Mike Maignan,Minutes Played,1978.0
+a111cf41,Juan Musso,Minutes Played,2077.0
+a92ab7be,Mark Flekken,Minutes Played,3060.0
+9f941969,Manuel Riemann,Minutes Played,3060.0
+58e933d2,Christian Kouamé,Starts,22.0
+03f946ed,Andrea Petagna,Starts,19.0
+8eb55dbb,Sheraldo Becker,Starts,33.0
+ca618d23,Lucas Höler,Starts,16.0
+3626daea,Leonardo Spinazzola,Starts,18.0
+f1f1f238,Koray Günter,Starts,19.0
+313254a3,Kiliann Sildillia,Starts,23.0
+0a89e877,Benjamin Henrichs,Starts,23.0
+ee64a822,Lewis Ferguson,Starts,27.0
+5128bde4,Darko Lazović,Starts,27.0
+a167537f,Julian Brandt,Starts,29.0
+cc86b9a3,Leon Goretzka,Starts,22.0
+fcb38f57,Mike Maignan,Starts,22.0
+a111cf41,Juan Musso,Starts,24.0
+a92ab7be,Mark Flekken,Starts,34.0
+9f941969,Manuel Riemann,Starts,34.0
+58e933d2,Christian Kouamé,Goals,4.0
+03f946ed,Andrea Petagna,Goals,4.0
+8eb55dbb,Sheraldo Becker,Goals,11.0
+ca618d23,Lucas Höler,Goals,5.0
+3626daea,Leonardo Spinazzola,Goals,1.0
+f1f1f238,Koray Günter,Goals,1.0
+313254a3,Kiliann Sildillia,Goals,0.0
+0a89e877,Benjamin Henrichs,Goals,2.0
+ee64a822,Lewis Ferguson,Goals,7.0
+5128bde4,Darko Lazović,Goals,4.0
+a167537f,Julian Brandt,Goals,9.0
+cc86b9a3,Leon Goretzka,Goals,3.0
+fcb38f57,Mike Maignan,Goals,0.0
+a111cf41,Juan Musso,Goals,0.0
+a92ab7be,Mark Flekken,Goals,0.0
+9f941969,Manuel Riemann,Goals,0.0
+58e933d2,Christian Kouamé,npGoals,4.0
+03f946ed,Andrea Petagna,npGoals,3.0
+8eb55dbb,Sheraldo Becker,npGoals,11.0
+ca618d23,Lucas Höler,npGoals,5.0
+3626daea,Leonardo Spinazzola,npGoals,1.0
+f1f1f238,Koray Günter,npGoals,1.0
+313254a3,Kiliann Sildillia,npGoals,0.0
+0a89e877,Benjamin Henrichs,npGoals,2.0
+ee64a822,Lewis Ferguson,npGoals,7.0
+5128bde4,Darko Lazović,npGoals,4.0
+a167537f,Julian Brandt,npGoals,9.0
+cc86b9a3,Leon Goretzka,npGoals,3.0
+fcb38f57,Mike Maignan,npGoals,0.0
+a111cf41,Juan Musso,npGoals,0.0
+a92ab7be,Mark Flekken,npGoals,0.0
+9f941969,Manuel Riemann,npGoals,0.0
+58e933d2,Christian Kouamé,npxG,5.3
+03f946ed,Andrea Petagna,npxG,4.9
+8eb55dbb,Sheraldo Becker,npxG,6.5
+ca618d23,Lucas Höler,npxG,3.3
+3626daea,Leonardo Spinazzola,npxG,1.0
+f1f1f238,Koray Günter,npxG,1.0
+313254a3,Kiliann Sildillia,npxG,0.8
+0a89e877,Benjamin Henrichs,npxG,1.2
+ee64a822,Lewis Ferguson,npxG,4.7
+5128bde4,Darko Lazović,npxG,3.6
+a167537f,Julian Brandt,npxG,5.2
+cc86b9a3,Leon Goretzka,npxG,4.7
+fcb38f57,Mike Maignan,npxG,0.0
+a111cf41,Juan Musso,npxG,0.0
+a92ab7be,Mark Flekken,npxG,0.0
+9f941969,Manuel Riemann,npxG,0.0
+58e933d2,Christian Kouamé,xG,5.3
+03f946ed,Andrea Petagna,xG,5.7
+8eb55dbb,Sheraldo Becker,xG,6.5
+ca618d23,Lucas Höler,xG,3.3
+3626daea,Leonardo Spinazzola,xG,1.0
+f1f1f238,Koray Günter,xG,1.0
+313254a3,Kiliann Sildillia,xG,0.8
+0a89e877,Benjamin Henrichs,xG,1.2
+ee64a822,Lewis Ferguson,xG,4.7
+5128bde4,Darko Lazović,xG,3.6
+a167537f,Julian Brandt,xG,5.2
+cc86b9a3,Leon Goretzka,xG,4.7
+fcb38f57,Mike Maignan,xG,0.0
+a111cf41,Juan Musso,xG,0.0
+a92ab7be,Mark Flekken,xG,0.0
+9f941969,Manuel Riemann,xG,0.0
+58e933d2,Christian Kouamé,PrgCarries,50.0
+03f946ed,Andrea Petagna,PrgCarries,23.0
+8eb55dbb,Sheraldo Becker,PrgCarries,105.0
+ca618d23,Lucas Höler,PrgCarries,19.0
+3626daea,Leonardo Spinazzola,PrgCarries,107.0
+f1f1f238,Koray Günter,PrgCarries,11.0
+313254a3,Kiliann Sildillia,PrgCarries,20.0
+0a89e877,Benjamin Henrichs,PrgCarries,48.0
+ee64a822,Lewis Ferguson,PrgCarries,31.0
+5128bde4,Darko Lazović,PrgCarries,72.0
+a167537f,Julian Brandt,PrgCarries,67.0
+cc86b9a3,Leon Goretzka,PrgCarries,42.0
+fcb38f57,Mike Maignan,PrgCarries,0.0
+a111cf41,Juan Musso,PrgCarries,0.0
+a92ab7be,Mark Flekken,PrgCarries,0.0
+9f941969,Manuel Riemann,PrgCarries,1.0
+58e933d2,Christian Kouamé,PrgPasses,54.0
+03f946ed,Andrea Petagna,PrgPasses,34.0
+8eb55dbb,Sheraldo Becker,PrgPasses,44.0
+ca618d23,Lucas Höler,PrgPasses,33.0
+3626daea,Leonardo Spinazzola,PrgPasses,63.0
+f1f1f238,Koray Günter,PrgPasses,57.0
+313254a3,Kiliann Sildillia,PrgPasses,81.0
+0a89e877,Benjamin Henrichs,PrgPasses,109.0
+ee64a822,Lewis Ferguson,PrgPasses,88.0
+5128bde4,Darko Lazović,PrgPasses,81.0
+a167537f,Julian Brandt,PrgPasses,119.0
+cc86b9a3,Leon Goretzka,PrgPasses,114.0
+fcb38f57,Mike Maignan,PrgPasses,1.0
+a111cf41,Juan Musso,PrgPasses,0.0
+a92ab7be,Mark Flekken,PrgPasses,0.0
+9f941969,Manuel Riemann,PrgPasses,18.0
+58e933d2,Christian Kouamé,CS,
+03f946ed,Andrea Petagna,CS,
+8eb55dbb,Sheraldo Becker,CS,
+ca618d23,Lucas Höler,CS,
+3626daea,Leonardo Spinazzola,CS,
+f1f1f238,Koray Günter,CS,
+313254a3,Kiliann Sildillia,CS,
+0a89e877,Benjamin Henrichs,CS,
+ee64a822,Lewis Ferguson,CS,
+5128bde4,Darko Lazović,CS,
+a167537f,Julian Brandt,CS,
+cc86b9a3,Leon Goretzka,CS,
+fcb38f57,Mike Maignan,CS,8.0
+a111cf41,Juan Musso,CS,7.0
+a92ab7be,Mark Flekken,CS,13.0
+9f941969,Manuel Riemann,CS,5.0
+58e933d2,Christian Kouamé,SoTA,
+03f946ed,Andrea Petagna,SoTA,
+8eb55dbb,Sheraldo Becker,SoTA,
+ca618d23,Lucas Höler,SoTA,
+3626daea,Leonardo Spinazzola,SoTA,
+f1f1f238,Koray Günter,SoTA,
+313254a3,Kiliann Sildillia,SoTA,
+0a89e877,Benjamin Henrichs,SoTA,
+ee64a822,Lewis Ferguson,SoTA,
+5128bde4,Darko Lazović,SoTA,
+a167537f,Julian Brandt,SoTA,
+cc86b9a3,Leon Goretzka,SoTA,
+fcb38f57,Mike Maignan,SoTA,62.0
+a111cf41,Juan Musso,SoTA,89.0
+a92ab7be,Mark Flekken,SoTA,150.0
+9f941969,Manuel Riemann,SoTA,200.0
+58e933d2,Christian Kouamé,Saves,
+03f946ed,Andrea Petagna,Saves,
+8eb55dbb,Sheraldo Becker,Saves,
+ca618d23,Lucas Höler,Saves,
+3626daea,Leonardo Spinazzola,Saves,
+f1f1f238,Koray Günter,Saves,
+313254a3,Kiliann Sildillia,Saves,
+0a89e877,Benjamin Henrichs,Saves,
+ee64a822,Lewis Ferguson,Saves,
+5128bde4,Darko Lazović,Saves,
+a167537f,Julian Brandt,Saves,
+cc86b9a3,Leon Goretzka,Saves,
+fcb38f57,Mike Maignan,Saves,40.0
+a111cf41,Juan Musso,Saves,64.0
+a92ab7be,Mark Flekken,Saves,106.0
+9f941969,Manuel Riemann,Saves,128.0
+58e933d2,Christian Kouamé,GA,
+03f946ed,Andrea Petagna,GA,
+8eb55dbb,Sheraldo Becker,GA,
+ca618d23,Lucas Höler,GA,
+3626daea,Leonardo Spinazzola,GA,
+f1f1f238,Koray Günter,GA,
+313254a3,Kiliann Sildillia,GA,
+0a89e877,Benjamin Henrichs,GA,
+ee64a822,Lewis Ferguson,GA,
+5128bde4,Darko Lazović,GA,
+a167537f,Julian Brandt,GA,
+cc86b9a3,Leon Goretzka,GA,
+fcb38f57,Mike Maignan,GA,21.0
+a111cf41,Juan Musso,GA,27.0
+a92ab7be,Mark Flekken,GA,44.0
+9f941969,Manuel Riemann,GA,72.0
+58e933d2,Christian Kouamé,PSxGA - GA,
+03f946ed,Andrea Petagna,PSxGA - GA,
+8eb55dbb,Sheraldo Becker,PSxGA - GA,
+ca618d23,Lucas Höler,PSxGA - GA,
+3626daea,Leonardo Spinazzola,PSxGA - GA,
+f1f1f238,Koray Günter,PSxGA - GA,
+313254a3,Kiliann Sildillia,PSxGA - GA,
+0a89e877,Benjamin Henrichs,PSxGA - GA,
+ee64a822,Lewis Ferguson,PSxGA - GA,
+5128bde4,Darko Lazović,PSxGA - GA,
+a167537f,Julian Brandt,PSxGA - GA,
+cc86b9a3,Leon Goretzka,PSxGA - GA,
+fcb38f57,Mike Maignan,PSxGA - GA,-0.7
+a111cf41,Juan Musso,PSxGA - GA,-3.3
+a92ab7be,Mark Flekken,PSxGA - GA,2.4
+9f941969,Manuel Riemann,PSxGA - GA,0.0
+58e933d2,Christian Kouamé,Crosses Stp,
+03f946ed,Andrea Petagna,Crosses Stp,
+8eb55dbb,Sheraldo Becker,Crosses Stp,
+ca618d23,Lucas Höler,Crosses Stp,
+3626daea,Leonardo Spinazzola,Crosses Stp,
+f1f1f238,Koray Günter,Crosses Stp,
+313254a3,Kiliann Sildillia,Crosses Stp,
+0a89e877,Benjamin Henrichs,Crosses Stp,
+ee64a822,Lewis Ferguson,Crosses Stp,
+5128bde4,Darko Lazović,Crosses Stp,
+a167537f,Julian Brandt,Crosses Stp,
+cc86b9a3,Leon Goretzka,Crosses Stp,
+fcb38f57,Mike Maignan,Crosses Stp,15.0
+a111cf41,Juan Musso,Crosses Stp,14.0
+a92ab7be,Mark Flekken,Crosses Stp,32.0
+9f941969,Manuel Riemann,Crosses Stp,31.0
+58e933d2,Christian Kouamé,Crosses Opp,
+03f946ed,Andrea Petagna,Crosses Opp,
+8eb55dbb,Sheraldo Becker,Crosses Opp,
+ca618d23,Lucas Höler,Crosses Opp,
+3626daea,Leonardo Spinazzola,Crosses Opp,
+f1f1f238,Koray Günter,Crosses Opp,
+313254a3,Kiliann Sildillia,Crosses Opp,
+0a89e877,Benjamin Henrichs,Crosses Opp,
+ee64a822,Lewis Ferguson,Crosses Opp,
+5128bde4,Darko Lazović,Crosses Opp,
+a167537f,Julian Brandt,Crosses Opp,
+cc86b9a3,Leon Goretzka,Crosses Opp,
+fcb38f57,Mike Maignan,Crosses Opp,221.0
+a111cf41,Juan Musso,Crosses Opp,253.0
+a92ab7be,Mark Flekken,Crosses Opp,434.0
+9f941969,Manuel Riemann,Crosses Opp,536.0
+58e933d2,Christian Kouamé,SoT,13.0
+03f946ed,Andrea Petagna,SoT,12.0
+8eb55dbb,Sheraldo Becker,SoT,26.0
+ca618d23,Lucas Höler,SoT,15.0
+3626daea,Leonardo Spinazzola,SoT,6.0
+f1f1f238,Koray Günter,SoT,1.0
+313254a3,Kiliann Sildillia,SoT,0.0
+0a89e877,Benjamin Henrichs,SoT,4.0
+ee64a822,Lewis Ferguson,SoT,18.0
+5128bde4,Darko Lazović,SoT,14.0
+a167537f,Julian Brandt,SoT,26.0
+cc86b9a3,Leon Goretzka,SoT,13.0
+fcb38f57,Mike Maignan,SoT,0.0
+a111cf41,Juan Musso,SoT,0.0
+a92ab7be,Mark Flekken,SoT,0.0
+9f941969,Manuel Riemann,SoT,0.0
+58e933d2,Christian Kouamé,Passes Cmp,468.0
+03f946ed,Andrea Petagna,Passes Cmp,316.0
+8eb55dbb,Sheraldo Becker,Passes Cmp,387.0
+ca618d23,Lucas Höler,Passes Cmp,314.0
+3626daea,Leonardo Spinazzola,Passes Cmp,750.0
+f1f1f238,Koray Günter,Passes Cmp,667.0
+313254a3,Kiliann Sildillia,Passes Cmp,787.0
+0a89e877,Benjamin Henrichs,Passes Cmp,1198.0
+ee64a822,Lewis Ferguson,Passes Cmp,1039.0
+5128bde4,Darko Lazović,Passes Cmp,517.0
+a167537f,Julian Brandt,Passes Cmp,1053.0
+cc86b9a3,Leon Goretzka,Passes Cmp,826.0
+fcb38f57,Mike Maignan,Passes Cmp,674.0
+a111cf41,Juan Musso,Passes Cmp,513.0
+a92ab7be,Mark Flekken,Passes Cmp,1035.0
+9f941969,Manuel Riemann,Passes Cmp,1065.0
+58e933d2,Christian Kouamé,Passes Att,661.0
+03f946ed,Andrea Petagna,Passes Att,434.0
+8eb55dbb,Sheraldo Becker,Passes Att,652.0
+ca618d23,Lucas Höler,Passes Att,483.0
+3626daea,Leonardo Spinazzola,Passes Att,989.0
+f1f1f238,Koray Günter,Passes Att,842.0
+313254a3,Kiliann Sildillia,Passes Att,1103.0
+0a89e877,Benjamin Henrichs,Passes Att,1538.0
+ee64a822,Lewis Ferguson,Passes Att,1218.0
+5128bde4,Darko Lazović,Passes Att,836.0
+a167537f,Julian Brandt,Passes Att,1368.0
+cc86b9a3,Leon Goretzka,Passes Att,1012.0
+fcb38f57,Mike Maignan,Passes Att,814.0
+a111cf41,Juan Musso,Passes Att,705.0
+a92ab7be,Mark Flekken,Passes Att,1468.0
+9f941969,Manuel Riemann,Passes Att,1761.0
+58e933d2,Christian Kouamé,Ast,4.0
+03f946ed,Andrea Petagna,Ast,5.0
+8eb55dbb,Sheraldo Becker,Ast,7.0
+ca618d23,Lucas Höler,Ast,2.0
+3626daea,Leonardo Spinazzola,Ast,4.0
+f1f1f238,Koray Günter,Ast,0.0
+313254a3,Kiliann Sildillia,Ast,2.0
+0a89e877,Benjamin Henrichs,Ast,2.0
+ee64a822,Lewis Ferguson,Ast,0.0
+5128bde4,Darko Lazović,Ast,5.0
+a167537f,Julian Brandt,Ast,8.0
+cc86b9a3,Leon Goretzka,Ast,2.0
+fcb38f57,Mike Maignan,Ast,1.0
+a111cf41,Juan Musso,Ast,0.0
+a92ab7be,Mark Flekken,Ast,0.0
+9f941969,Manuel Riemann,Ast,0.0
+58e933d2,Christian Kouamé,xAG,3.7
+03f946ed,Andrea Petagna,xAG,4.4
+8eb55dbb,Sheraldo Becker,xAG,5.6
+ca618d23,Lucas Höler,xAG,1.9
+3626daea,Leonardo Spinazzola,xAG,2.0
+f1f1f238,Koray Günter,xAG,1.1
+313254a3,Kiliann Sildillia,xAG,0.7
+0a89e877,Benjamin Henrichs,xAG,1.8
+ee64a822,Lewis Ferguson,xAG,1.0
+5128bde4,Darko Lazović,xAG,6.4
+a167537f,Julian Brandt,xAG,9.2
+cc86b9a3,Leon Goretzka,xAG,2.3
+fcb38f57,Mike Maignan,xAG,0.0
+a111cf41,Juan Musso,xAG,0.1
+a92ab7be,Mark Flekken,xAG,0.3
+9f941969,Manuel Riemann,xAG,0.1
+58e933d2,Christian Kouamé,A-xAG,0.3
+03f946ed,Andrea Petagna,A-xAG,0.6
+8eb55dbb,Sheraldo Becker,A-xAG,1.4
+ca618d23,Lucas Höler,A-xAG,0.1
+3626daea,Leonardo Spinazzola,A-xAG,2.0
+f1f1f238,Koray Günter,A-xAG,-1.1
+313254a3,Kiliann Sildillia,A-xAG,1.3
+0a89e877,Benjamin Henrichs,A-xAG,0.2
+ee64a822,Lewis Ferguson,A-xAG,-1.0
+5128bde4,Darko Lazović,A-xAG,-1.4
+a167537f,Julian Brandt,A-xAG,-1.2
+cc86b9a3,Leon Goretzka,A-xAG,-0.3
+fcb38f57,Mike Maignan,A-xAG,1.0
+a111cf41,Juan Musso,A-xAG,-0.1
+a92ab7be,Mark Flekken,A-xAG,-0.3
+9f941969,Manuel Riemann,A-xAG,-0.1
+58e933d2,Christian Kouamé,Passes Final 3rd,29.0
+03f946ed,Andrea Petagna,Passes Final 3rd,20.0
+8eb55dbb,Sheraldo Becker,Passes Final 3rd,20.0
+ca618d23,Lucas Höler,Passes Final 3rd,22.0
+3626daea,Leonardo Spinazzola,Passes Final 3rd,37.0
+f1f1f238,Koray Günter,Passes Final 3rd,52.0
+313254a3,Kiliann Sildillia,Passes Final 3rd,69.0
+0a89e877,Benjamin Henrichs,Passes Final 3rd,92.0
+ee64a822,Lewis Ferguson,Passes Final 3rd,70.0
+5128bde4,Darko Lazović,Passes Final 3rd,49.0
+a167537f,Julian Brandt,Passes Final 3rd,60.0
+cc86b9a3,Leon Goretzka,Passes Final 3rd,80.0
+fcb38f57,Mike Maignan,Passes Final 3rd,17.0
+a111cf41,Juan Musso,Passes Final 3rd,0.0
+a92ab7be,Mark Flekken,Passes Final 3rd,58.0
+9f941969,Manuel Riemann,Passes Final 3rd,136.0
+58e933d2,Christian Kouamé,Challenges Tkl,7.0
+03f946ed,Andrea Petagna,Challenges Tkl,3.0
+8eb55dbb,Sheraldo Becker,Challenges Tkl,2.0
+ca618d23,Lucas Höler,Challenges Tkl,6.0
+3626daea,Leonardo Spinazzola,Challenges Tkl,8.0
+f1f1f238,Koray Günter,Challenges Tkl,10.0
+313254a3,Kiliann Sildillia,Challenges Tkl,18.0
+0a89e877,Benjamin Henrichs,Challenges Tkl,43.0
+ee64a822,Lewis Ferguson,Challenges Tkl,20.0
+5128bde4,Darko Lazović,Challenges Tkl,13.0
+a167537f,Julian Brandt,Challenges Tkl,12.0
+cc86b9a3,Leon Goretzka,Challenges Tkl,27.0
+fcb38f57,Mike Maignan,Challenges Tkl,1.0
+a111cf41,Juan Musso,Challenges Tkl,1.0
+a92ab7be,Mark Flekken,Challenges Tkl,0.0
+9f941969,Manuel Riemann,Challenges Tkl,3.0
+58e933d2,Christian Kouamé,Challenges Against Att,14.0
+03f946ed,Andrea Petagna,Challenges Against Att,6.0
+8eb55dbb,Sheraldo Becker,Challenges Against Att,11.0
+ca618d23,Lucas Höler,Challenges Against Att,22.0
+3626daea,Leonardo Spinazzola,Challenges Against Att,23.0
+f1f1f238,Koray Günter,Challenges Against Att,16.0
+313254a3,Kiliann Sildillia,Challenges Against Att,30.0
+0a89e877,Benjamin Henrichs,Challenges Against Att,66.0
+ee64a822,Lewis Ferguson,Challenges Against Att,40.0
+5128bde4,Darko Lazović,Challenges Against Att,29.0
+a167537f,Julian Brandt,Challenges Against Att,43.0
+cc86b9a3,Leon Goretzka,Challenges Against Att,48.0
+fcb38f57,Mike Maignan,Challenges Against Att,1.0
+a111cf41,Juan Musso,Challenges Against Att,1.0
+a92ab7be,Mark Flekken,Challenges Against Att,1.0
+9f941969,Manuel Riemann,Challenges Against Att,5.0
+58e933d2,Christian Kouamé,Tkl+Int,39.0
+03f946ed,Andrea Petagna,Tkl+Int,10.0
+8eb55dbb,Sheraldo Becker,Tkl+Int,18.0
+ca618d23,Lucas Höler,Tkl+Int,29.0
+3626daea,Leonardo Spinazzola,Tkl+Int,24.0
+f1f1f238,Koray Günter,Tkl+Int,61.0
+313254a3,Kiliann Sildillia,Tkl+Int,54.0
+0a89e877,Benjamin Henrichs,Tkl+Int,108.0
+ee64a822,Lewis Ferguson,Tkl+Int,63.0
+5128bde4,Darko Lazović,Tkl+Int,40.0
+a167537f,Julian Brandt,Tkl+Int,44.0
+cc86b9a3,Leon Goretzka,Tkl+Int,73.0
+fcb38f57,Mike Maignan,Tkl+Int,2.0
+a111cf41,Juan Musso,Tkl+Int,1.0
+a92ab7be,Mark Flekken,Tkl+Int,0.0
+9f941969,Manuel Riemann,Tkl+Int,8.0
+58e933d2,Christian Kouamé,Tackles Def 3rd,8.0
+03f946ed,Andrea Petagna,Tackles Def 3rd,2.0
+8eb55dbb,Sheraldo Becker,Tackles Def 3rd,1.0
+ca618d23,Lucas Höler,Tackles Def 3rd,5.0
+3626daea,Leonardo Spinazzola,Tackles Def 3rd,7.0
+f1f1f238,Koray Günter,Tackles Def 3rd,7.0
+313254a3,Kiliann Sildillia,Tackles Def 3rd,10.0
+0a89e877,Benjamin Henrichs,Tackles Def 3rd,41.0
+ee64a822,Lewis Ferguson,Tackles Def 3rd,16.0
+5128bde4,Darko Lazović,Tackles Def 3rd,9.0
+a167537f,Julian Brandt,Tackles Def 3rd,6.0
+cc86b9a3,Leon Goretzka,Tackles Def 3rd,21.0
+fcb38f57,Mike Maignan,Tackles Def 3rd,1.0
+a111cf41,Juan Musso,Tackles Def 3rd,1.0
+a92ab7be,Mark Flekken,Tackles Def 3rd,0.0
+9f941969,Manuel Riemann,Tackles Def 3rd,3.0
+58e933d2,Christian Kouamé,Blocks,15.0
+03f946ed,Andrea Petagna,Blocks,16.0
+8eb55dbb,Sheraldo Becker,Blocks,13.0
+ca618d23,Lucas Höler,Blocks,22.0
+3626daea,Leonardo Spinazzola,Blocks,13.0
+f1f1f238,Koray Günter,Blocks,34.0
+313254a3,Kiliann Sildillia,Blocks,24.0
+0a89e877,Benjamin Henrichs,Blocks,48.0
+ee64a822,Lewis Ferguson,Blocks,22.0
+5128bde4,Darko Lazović,Blocks,14.0
+a167537f,Julian Brandt,Blocks,23.0
+cc86b9a3,Leon Goretzka,Blocks,40.0
+fcb38f57,Mike Maignan,Blocks,0.0
+a111cf41,Juan Musso,Blocks,0.0
+a92ab7be,Mark Flekken,Blocks,1.0
+9f941969,Manuel Riemann,Blocks,1.0
+58e933d2,Christian Kouamé,Clr,8.0
+03f946ed,Andrea Petagna,Clr,18.0
+8eb55dbb,Sheraldo Becker,Clr,7.0
+ca618d23,Lucas Höler,Clr,17.0
+3626daea,Leonardo Spinazzola,Clr,25.0
+f1f1f238,Koray Günter,Clr,92.0
+313254a3,Kiliann Sildillia,Clr,47.0
+0a89e877,Benjamin Henrichs,Clr,46.0
+ee64a822,Lewis Ferguson,Clr,25.0
+5128bde4,Darko Lazović,Clr,19.0
+a167537f,Julian Brandt,Clr,9.0
+cc86b9a3,Leon Goretzka,Clr,32.0
+fcb38f57,Mike Maignan,Clr,10.0
+a111cf41,Juan Musso,Clr,11.0
+a92ab7be,Mark Flekken,Clr,9.0
+9f941969,Manuel Riemann,Clr,23.0
+58e933d2,Christian Kouamé,Goals_p90,0.1932367149758454
+03f946ed,Andrea Petagna,Goals_p90,0.2162162162162162
+8eb55dbb,Sheraldo Becker,Goals_p90,0.3873239436619718
+ca618d23,Lucas Höler,Goals_p90,0.2994011976047904
+3626daea,Leonardo Spinazzola,Goals_p90,0.0543478260869565
+f1f1f238,Koray Günter,Goals_p90,0.0507614213197969
+313254a3,Kiliann Sildillia,Goals_p90,0.0
+0a89e877,Benjamin Henrichs,Goals_p90,0.0823045267489712
+ee64a822,Lewis Ferguson,Goals_p90,0.2723735408560311
+5128bde4,Darko Lazović,Goals_p90,0.1606425702811245
+a167537f,Julian Brandt,Goals_p90,0.3383458646616541
+cc86b9a3,Leon Goretzka,Goals_p90,0.15625
+fcb38f57,Mike Maignan,Goals_p90,0.0
+a111cf41,Juan Musso,Goals_p90,0.0
+a92ab7be,Mark Flekken,Goals_p90,0.0
+9f941969,Manuel Riemann,Goals_p90,0.0
+58e933d2,Christian Kouamé,npGoals_p90,0.1932367149758454
+03f946ed,Andrea Petagna,npGoals_p90,0.1621621621621621
+8eb55dbb,Sheraldo Becker,npGoals_p90,0.3873239436619718
+ca618d23,Lucas Höler,npGoals_p90,0.2994011976047904
+3626daea,Leonardo Spinazzola,npGoals_p90,0.0543478260869565
+f1f1f238,Koray Günter,npGoals_p90,0.0507614213197969
+313254a3,Kiliann Sildillia,npGoals_p90,0.0
+0a89e877,Benjamin Henrichs,npGoals_p90,0.0823045267489712
+ee64a822,Lewis Ferguson,npGoals_p90,0.2723735408560311
+5128bde4,Darko Lazović,npGoals_p90,0.1606425702811245
+a167537f,Julian Brandt,npGoals_p90,0.3383458646616541
+cc86b9a3,Leon Goretzka,npGoals_p90,0.15625
+fcb38f57,Mike Maignan,npGoals_p90,0.0
+a111cf41,Juan Musso,npGoals_p90,0.0
+a92ab7be,Mark Flekken,npGoals_p90,0.0
+9f941969,Manuel Riemann,npGoals_p90,0.0
+58e933d2,Christian Kouamé,npxG_p90,0.2560386473429952
+03f946ed,Andrea Petagna,npxG_p90,0.2648648648648649
+8eb55dbb,Sheraldo Becker,npxG_p90,0.2288732394366197
+ca618d23,Lucas Höler,npxG_p90,0.1976047904191616
+3626daea,Leonardo Spinazzola,npxG_p90,0.0543478260869565
+f1f1f238,Koray Günter,npxG_p90,0.0507614213197969
+313254a3,Kiliann Sildillia,npxG_p90,0.0363636363636363
+0a89e877,Benjamin Henrichs,npxG_p90,0.0493827160493827
+ee64a822,Lewis Ferguson,npxG_p90,0.1828793774319066
+5128bde4,Darko Lazović,npxG_p90,0.144578313253012
+a167537f,Julian Brandt,npxG_p90,0.1954887218045112
+cc86b9a3,Leon Goretzka,npxG_p90,0.2447916666666666
+fcb38f57,Mike Maignan,npxG_p90,0.0
+a111cf41,Juan Musso,npxG_p90,0.0
+a92ab7be,Mark Flekken,npxG_p90,0.0
+9f941969,Manuel Riemann,npxG_p90,0.0
+58e933d2,Christian Kouamé,xG_p90,0.2560386473429952
+03f946ed,Andrea Petagna,xG_p90,0.3081081081081081
+8eb55dbb,Sheraldo Becker,xG_p90,0.2288732394366197
+ca618d23,Lucas Höler,xG_p90,0.1976047904191616
+3626daea,Leonardo Spinazzola,xG_p90,0.0543478260869565
+f1f1f238,Koray Günter,xG_p90,0.0507614213197969
+313254a3,Kiliann Sildillia,xG_p90,0.0363636363636363
+0a89e877,Benjamin Henrichs,xG_p90,0.0493827160493827
+ee64a822,Lewis Ferguson,xG_p90,0.1828793774319066
+5128bde4,Darko Lazović,xG_p90,0.144578313253012
+a167537f,Julian Brandt,xG_p90,0.1954887218045112
+cc86b9a3,Leon Goretzka,xG_p90,0.2447916666666666
+fcb38f57,Mike Maignan,xG_p90,0.0
+a111cf41,Juan Musso,xG_p90,0.0
+a92ab7be,Mark Flekken,xG_p90,0.0
+9f941969,Manuel Riemann,xG_p90,0.0
+58e933d2,Christian Kouamé,SoT_p90,0.6280193236714976
+03f946ed,Andrea Petagna,SoT_p90,0.6486486486486487
+8eb55dbb,Sheraldo Becker,SoT_p90,0.9154929577464788
+ca618d23,Lucas Höler,SoT_p90,0.8982035928143713
+3626daea,Leonardo Spinazzola,SoT_p90,0.3260869565217391
+f1f1f238,Koray Günter,SoT_p90,0.0507614213197969
+313254a3,Kiliann Sildillia,SoT_p90,0.0
+0a89e877,Benjamin Henrichs,SoT_p90,0.1646090534979424
+ee64a822,Lewis Ferguson,SoT_p90,0.7003891050583658
+5128bde4,Darko Lazović,SoT_p90,0.5622489959839357
+a167537f,Julian Brandt,SoT_p90,0.9774436090225564
+cc86b9a3,Leon Goretzka,SoT_p90,0.6770833333333334
+fcb38f57,Mike Maignan,SoT_p90,0.0
+a111cf41,Juan Musso,SoT_p90,0.0
+a92ab7be,Mark Flekken,SoT_p90,0.0
+9f941969,Manuel Riemann,SoT_p90,0.0
+58e933d2,Christian Kouamé,PrgCarries_p90,2.415458937198068
+03f946ed,Andrea Petagna,PrgCarries_p90,1.2432432432432432
+8eb55dbb,Sheraldo Becker,PrgCarries_p90,3.6971830985915495
+ca618d23,Lucas Höler,PrgCarries_p90,1.1377245508982037
+3626daea,Leonardo Spinazzola,PrgCarries_p90,5.815217391304349
+f1f1f238,Koray Günter,PrgCarries_p90,0.5583756345177665
+313254a3,Kiliann Sildillia,PrgCarries_p90,0.9090909090909092
+0a89e877,Benjamin Henrichs,PrgCarries_p90,1.9753086419753083
+ee64a822,Lewis Ferguson,PrgCarries_p90,1.206225680933852
+5128bde4,Darko Lazović,PrgCarries_p90,2.891566265060241
+a167537f,Julian Brandt,PrgCarries_p90,2.518796992481203
+cc86b9a3,Leon Goretzka,PrgCarries_p90,2.1875
+fcb38f57,Mike Maignan,PrgCarries_p90,0.0
+a111cf41,Juan Musso,PrgCarries_p90,0.0
+a92ab7be,Mark Flekken,PrgCarries_p90,0.0
+9f941969,Manuel Riemann,PrgCarries_p90,0.0294117647058823
+58e933d2,Christian Kouamé,PrgPasses_p90,2.608695652173913
+03f946ed,Andrea Petagna,PrgPasses_p90,1.837837837837838
+8eb55dbb,Sheraldo Becker,PrgPasses_p90,1.5492957746478877
+ca618d23,Lucas Höler,PrgPasses_p90,1.9760479041916168
+3626daea,Leonardo Spinazzola,PrgPasses_p90,3.423913043478261
+f1f1f238,Koray Günter,PrgPasses_p90,2.8934010152284264
+313254a3,Kiliann Sildillia,PrgPasses_p90,3.6818181818181817
+0a89e877,Benjamin Henrichs,PrgPasses_p90,4.48559670781893
+ee64a822,Lewis Ferguson,PrgPasses_p90,3.4241245136186773
+5128bde4,Darko Lazović,PrgPasses_p90,3.253012048192771
+a167537f,Julian Brandt,PrgPasses_p90,4.473684210526316
+cc86b9a3,Leon Goretzka,PrgPasses_p90,5.9375
+fcb38f57,Mike Maignan,PrgPasses_p90,0.0454545454545454
+a111cf41,Juan Musso,PrgPasses_p90,0.0
+a92ab7be,Mark Flekken,PrgPasses_p90,0.0
+9f941969,Manuel Riemann,PrgPasses_p90,0.5294117647058824
+58e933d2,Christian Kouamé,xAG_p90,0.178743961352657
+03f946ed,Andrea Petagna,xAG_p90,0.2378378378378378
+8eb55dbb,Sheraldo Becker,xAG_p90,0.1971830985915492
+ca618d23,Lucas Höler,xAG_p90,0.1137724550898203
+3626daea,Leonardo Spinazzola,xAG_p90,0.108695652173913
+f1f1f238,Koray Günter,xAG_p90,0.0558375634517766
+313254a3,Kiliann Sildillia,xAG_p90,0.0318181818181818
+0a89e877,Benjamin Henrichs,xAG_p90,0.074074074074074
+ee64a822,Lewis Ferguson,xAG_p90,0.0389105058365758
+5128bde4,Darko Lazović,xAG_p90,0.2570281124497992
+a167537f,Julian Brandt,xAG_p90,0.3458646616541353
+cc86b9a3,Leon Goretzka,xAG_p90,0.1197916666666666
+fcb38f57,Mike Maignan,xAG_p90,0.0
+a111cf41,Juan Musso,xAG_p90,0.0043290043290043
+a92ab7be,Mark Flekken,xAG_p90,0.0088235294117647
+9f941969,Manuel Riemann,xAG_p90,0.0029411764705882
+58e933d2,Christian Kouamé,%PassesCmp,0.708018154311649
+03f946ed,Andrea Petagna,%PassesCmp,0.728110599078341
+8eb55dbb,Sheraldo Becker,%PassesCmp,0.593558282208589
+ca618d23,Lucas Höler,%PassesCmp,0.650103519668737
+3626daea,Leonardo Spinazzola,%PassesCmp,0.7583417593528817
+f1f1f238,Koray Günter,%PassesCmp,0.7921615201900237
+313254a3,Kiliann Sildillia,%PassesCmp,0.71350861287398
+0a89e877,Benjamin Henrichs,%PassesCmp,0.7789336801040312
+ee64a822,Lewis Ferguson,%PassesCmp,0.8530377668308703
+5128bde4,Darko Lazović,%PassesCmp,0.618421052631579
+a167537f,Julian Brandt,%PassesCmp,0.7697368421052632
+cc86b9a3,Leon Goretzka,%PassesCmp,0.8162055335968379
+fcb38f57,Mike Maignan,%PassesCmp,0.828009828009828
+a111cf41,Juan Musso,%PassesCmp,0.7276595744680852
+a92ab7be,Mark Flekken,%PassesCmp,0.7050408719346049
+9f941969,Manuel Riemann,%PassesCmp,0.6047700170357752
+58e933d2,Christian Kouamé,%TklCmp,0.5
+03f946ed,Andrea Petagna,%TklCmp,0.5
+8eb55dbb,Sheraldo Becker,%TklCmp,0.1818181818181818
+ca618d23,Lucas Höler,%TklCmp,0.2727272727272727
+3626daea,Leonardo Spinazzola,%TklCmp,0.3478260869565217
+f1f1f238,Koray Günter,%TklCmp,0.625
+313254a3,Kiliann Sildillia,%TklCmp,0.6
+0a89e877,Benjamin Henrichs,%TklCmp,0.6515151515151515
+ee64a822,Lewis Ferguson,%TklCmp,0.5
+5128bde4,Darko Lazović,%TklCmp,0.4482758620689655
+a167537f,Julian Brandt,%TklCmp,0.2790697674418604
+cc86b9a3,Leon Goretzka,%TklCmp,0.5625
+fcb38f57,Mike Maignan,%TklCmp,1.0
+a111cf41,Juan Musso,%TklCmp,1.0
+a92ab7be,Mark Flekken,%TklCmp,0.0
+9f941969,Manuel Riemann,%TklCmp,0.6
+58e933d2,Christian Kouamé,%Saves,
+03f946ed,Andrea Petagna,%Saves,
+8eb55dbb,Sheraldo Becker,%Saves,
+ca618d23,Lucas Höler,%Saves,
+3626daea,Leonardo Spinazzola,%Saves,
+f1f1f238,Koray Günter,%Saves,
+313254a3,Kiliann Sildillia,%Saves,
+0a89e877,Benjamin Henrichs,%Saves,
+ee64a822,Lewis Ferguson,%Saves,
+5128bde4,Darko Lazović,%Saves,
+a167537f,Julian Brandt,%Saves,
+cc86b9a3,Leon Goretzka,%Saves,
+fcb38f57,Mike Maignan,%Saves,0.6451612903225806
+a111cf41,Juan Musso,%Saves,0.7191011235955056
+a92ab7be,Mark Flekken,%Saves,0.7066666666666667
+9f941969,Manuel Riemann,%Saves,0.64
+58e933d2,Christian Kouamé,%CossesStopped,
+03f946ed,Andrea Petagna,%CossesStopped,
+8eb55dbb,Sheraldo Becker,%CossesStopped,
+ca618d23,Lucas Höler,%CossesStopped,
+3626daea,Leonardo Spinazzola,%CossesStopped,
+f1f1f238,Koray Günter,%CossesStopped,
+313254a3,Kiliann Sildillia,%CossesStopped,
+0a89e877,Benjamin Henrichs,%CossesStopped,
+ee64a822,Lewis Ferguson,%CossesStopped,
+5128bde4,Darko Lazović,%CossesStopped,
+a167537f,Julian Brandt,%CossesStopped,
+cc86b9a3,Leon Goretzka,%CossesStopped,
+fcb38f57,Mike Maignan,%CossesStopped,0.0678733031674208
+a111cf41,Juan Musso,%CossesStopped,0.0553359683794466
+a92ab7be,Mark Flekken,%CossesStopped,0.0737327188940092
+9f941969,Manuel Riemann,%CossesStopped,0.0578358208955223

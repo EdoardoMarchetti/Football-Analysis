@@ -1,0 +1,17 @@
+Player,Nation,Pos,Squad,Comp,Age,Main_position,Second_position,Nation_comp,Player ID
+Christian Kouamé,CIV,FW,Fiorentina,Serie A,24,FW,,Italy,58e933d2
+Andrea Petagna,ITA,FW,Monza,Serie A,27,FW,,Italy,03f946ed
+Sheraldo Becker,SUR,FW,Union Berlin,Bundesliga,27,FW,,Germany,8eb55dbb
+Lucas Höler,GER,"FW,MF",Freiburg,Bundesliga,28,FW,MF,Germany,ca618d23
+Leonardo Spinazzola,ITA,DF,Roma,Serie A,29,DF,,Italy,3626daea
+Koray Günter,GER,DF,Hellas Verona,Serie A,27,DF,,Italy,f1f1f238
+Kiliann Sildillia,FRA,"DF,MF",Freiburg,Bundesliga,20,DF,MF,Germany,313254a3
+Benjamin Henrichs,GER,"DF,MF",RB Leipzig,Bundesliga,25,DF,MF,Germany,0a89e877
+Lewis Ferguson,SCO,"MF,FW",Bologna,Serie A,22,MF,FW,Italy,ee64a822
+Darko Lazović,SRB,"MF,DF",Hellas Verona,Serie A,31,MF,DF,Italy,5128bde4
+Julian Brandt,GER,"MF,FW",Dortmund,Bundesliga,26,MF,FW,Germany,a167537f
+Leon Goretzka,GER,MF,Bayern Munich,Bundesliga,27,MF,,Germany,cc86b9a3
+Mike Maignan,FRA,GK,Milan,Serie A,27,GK,,Italy,fcb38f57
+Juan Musso,ARG,GK,Atalanta,Serie A,28,GK,,Italy,a111cf41
+Mark Flekken,NED,GK,Freiburg,Bundesliga,29,GK,,Germany,a92ab7be
+Manuel Riemann,GER,GK,Bochum,Bundesliga,33,GK,,Germany,9f941969
